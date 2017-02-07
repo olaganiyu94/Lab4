@@ -1,0 +1,3 @@
+once the Admin person logs in with the correct, they will directed to the products page where all the items are listed out,
+the Admin could delete, update or add a new product to the products page.
+when the admin person delete a product, the deleteproduct is called and the items get removed from the database and the page is updated.
